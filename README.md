@@ -22,6 +22,8 @@ Boost video playback speed on any website (even inside iframes) using Alt + keyb
 
 Every time you change the playback speed, a floating popup appears in the bottom-right corner of the page with the updated speed, e.g.:
 ![image](https://github.com/user-attachments/assets/3313a037-cdaf-4247-88eb-8d0e0dc97725)
+![image](https://github.com/user-attachments/assets/ab7dc0bd-8f45-4333-9dc3-50afd557d5a0)
+
 
 
 ### Popup Details:
