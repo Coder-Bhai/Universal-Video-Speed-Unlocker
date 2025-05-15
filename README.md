@@ -57,6 +57,23 @@ Every time you change the playback speed, a floating popup appears in the bottom
 
 ---
 
+## 🎛 How to Set Custom Keyboard Shortcuts
+You can easily change the default keyboard shortcuts (Alt + Up, Alt + Down, etc.) to your own preferences:
+### 🔧 Steps:
+1. Open Chrome and go to
+   - 👉 chrome://extensions/shortcuts
+2. Find "Universal Video Speed Unlocker" in the list.
+3. Set your preferred shortcuts for:
+   - Increase playback speed
+   - Decrease playback speed
+   - Set speed to 1x
+   - Set speed to 10x
+4. Simply click on the shortcut box and press your desired key combination
+(e.g., Ctrl + Shift + ↑ or Alt + V, etc.)
+
+> ✅ Make sure your shortcuts don’t conflict with existing browser/system shortcuts.
+
+---
 
 ## 💻 Developer Notes
 
